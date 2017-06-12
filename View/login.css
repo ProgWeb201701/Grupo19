@@ -1,0 +1,13 @@
+#login{  
+    background-color: #0F7B50;
+    color:whitesmoke;
+    width: 20%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+}
+#back{
+    background-image:url(imagens/telaInicial.jpg);
+}
